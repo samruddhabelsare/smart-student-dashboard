@@ -1,0 +1,36 @@
+Roll No,Student Name,Class,Section,City,State,Board,Mathematics,Science,English,History,Computer,Total,Percentage,Grade,Division,Target Exam,Study Hours Per Day
+1,Aarav Sharma,10,A,New Delhi,Delhi,CBSE,95,91,88,93,96,463,92.6,A1,First Division,JEE Advanced,10
+2,Priya Patel,10,A,Ahmedabad,Gujarat,CBSE,72,68,75,80,74,369,73.8,B1,First Division,NEET,7
+3,Rohit Verma,10,A,Lucknow,Uttar Pradesh,CBSE,45,50,42,55,48,240,48.0,C2,Second Division,SSC,4
+4,Ananya Krishnan,10,A,Chennai,Tamil Nadu,State Board,98,97,92,85,99,471,94.2,A1,First Division,JEE Advanced,12
+5,Vikram Singh,10,A,Jaipur,Rajasthan,RBSE,60,55,62,70,58,305,61.0,B2,First Division,UPSC,6
+6,Sneha Iyer,10,B,Bengaluru,Karnataka,KSEEB,88,90,85,78,87,428,85.6,A2,First Division,NEET,9
+7,Arjun Mehta,10,B,Mumbai,Maharashtra,SSC,76,80,72,83,79,390,78.0,B1,First Division,CAT,7
+8,Pooja Tiwari,10,B,Bhopal,Madhya Pradesh,CBSE,55,60,58,65,52,290,58.0,C1,Second Division,IBPS,5
+9,Karan Nair,10,B,Kochi,Kerala,State Board,90,88,94,75,92,439,87.8,A2,First Division,JEE Mains,10
+10,Riya Gupta,10,B,Kolkata,West Bengal,CBSE,82,78,88,91,85,424,84.8,A2,First Division,NEET,8
+11,Siddharth Joshi,10,C,Pune,Maharashtra,SSC,65,70,60,72,68,335,67.0,B2,First Division,GATE,6
+12,Meera Reddy,10,C,Hyderabad,Telangana,State Board,93,95,87,80,94,449,89.8,A2,First Division,NEET,11
+13,Aditya Kumar,10,C,Patna,Bihar,CBSE,40,38,45,60,42,225,45.0,C2,Second Division,SSC,4
+14,Divya Nair,10,C,Thiruvananthapuram,Kerala,State Board,88,85,92,79,90,434,86.8,A2,First Division,JEE Mains,9
+15,Harshit Agarwal,10,C,Kanpur,Uttar Pradesh,CBSE,70,65,68,75,72,350,70.0,B1,First Division,CAT,7
+16,Kavya Desai,10,D,Surat,Gujarat,CBSE,96,94,90,88,97,465,93.0,A1,First Division,JEE Advanced,11
+17,Nikhil Yadav,10,D,Agra,Uttar Pradesh,CBSE,50,55,48,62,53,268,53.6,C1,Second Division,Railway,5
+18,Tanvi Bhatt,10,D,Vadodara,Gujarat,CBSE,80,82,78,85,83,408,81.6,A2,First Division,NEET,8
+19,Rahul Pandey,10,D,Varanasi,Uttar Pradesh,CBSE,35,40,38,55,42,210,42.0,D,Third Division,SSC,3
+20,Shruti Sharma,10,D,Chandigarh,Punjab,CBSE,91,89,93,87,94,454,90.8,A1,First Division,JEE Mains,10
+21,Abhishek Mishra,12,A,Allahabad,Uttar Pradesh,CBSE,88,84,80,78,85,415,83.0,A2,First Division,UPSC,9
+22,Lakshmi Sundar,12,A,Madurai,Tamil Nadu,State Board,94,96,89,82,95,456,91.2,A1,First Division,NEET,11
+23,Pranav Kapoor,12,A,New Delhi,Delhi,CBSE,78,74,82,80,76,390,78.0,B1,First Division,CAT,7
+24,Ishita Singh,12,A,Dehradun,Uttarakhand,CBSE,85,88,86,90,88,437,87.4,A2,First Division,JEE Mains,9
+25,Yash Thakur,12,B,Indore,Madhya Pradesh,CBSE,62,58,65,70,60,315,63.0,B2,First Division,IBPS,6
+26,Deepika Menon,12,B,Kozhikode,Kerala,State Board,97,95,91,84,98,465,93.0,A1,First Division,JEE Advanced,12
+27,Suraj Pawar,12,B,Nagpur,Maharashtra,SSC,55,60,52,65,58,290,58.0,C1,Second Division,Railway,5
+28,Anjali Tiwari,12,B,Raipur,Chhattisgarh,CBSE,75,78,72,80,76,381,76.2,B1,First Division,NEET,7
+29,Manish Bhardwaj,12,C,Noida,Uttar Pradesh,CBSE,68,65,70,72,66,341,68.2,B2,First Division,GATE,6
+30,Nandita Roy,12,C,Kolkata,West Bengal,CBSE,90,87,93,88,91,449,89.8,A2,First Division,JEE Mains,10
+31,Rohan Pillai,12,C,Thiruvananthapuram,Kerala,State Board,84,88,80,76,82,410,82.0,A2,First Division,NEET,8
+32,Saanvi Jain,12,C,Jaipur,Rajasthan,RBSE,92,90,87,85,93,447,89.4,A2,First Division,JEE Mains,11
+33,Kartik Sharma,12,D,Amritsar,Punjab,CBSE,58,62,55,70,60,305,61.0,B2,First Division,IBPS,5
+34,Nisha Aggarwal,12,D,Faridabad,Haryana,CBSE,77,80,75,83,79,394,78.8,B1,First Division,UPSC,8
+35,Dev Patel,12,D,Surat,Gujarat,CBSE,96,98,92,88,97,471,94.2,A1,First Division,JEE Advanced,13
