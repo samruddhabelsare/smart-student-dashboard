@@ -9,6 +9,8 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-3.7%2B-11557c?style=for-the-badge&logo=python&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)
+[![Open Streamlit App](https://img.shields.io/badge/Streamlit-Live_App-brightgreen?style=for-the-badge&logo=streamlit)](https://smart-student-dashboard.streamlit.app/)
+
 
 **_Where Curiosity Meets Dedication — Powered by Ambition_**
 
@@ -17,6 +19,10 @@
 ## 🚀 Live Demo
 
 [![Open Streamlit App](https://img.shields.io/badge/Streamlit-Live_App-brightgreen?style=for-the-badge&logo=streamlit)](https://smart-student-dashboard.streamlit.app/)
+
+
+
+
 
 
 [Features](#-features) · [Demo](#-demo) · [Installation](#-installation) · [Usage](#-usage) · [Project Structure](#-project-structure) · [Tech Stack](#-tech-stack) · [Author](#-author)
