@@ -9,7 +9,7 @@ from datetime import date
 #   🪔  INDIA STUDENT COMMAND CENTRE  🪔
 # ◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈
 
-st.markdown("# 🪔 INDIA STUDENT COMMAND CENTRE")
+st.markdown("# INDIA STUDENT COMMAND CENTRE")
 st.markdown("##### *Where Curiosity Meets Dedication — Powered by Ambition*")
 
 st.markdown(
@@ -27,7 +27,14 @@ st.markdown(
 #   SIDEBAR
 # ◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈
 
-st.sidebar.title("🛕 CONTROL PANEL")
+st.sidebar.title(" CONTROL PANEL")
+
+st.subheader(" Project Source Code")
+st.markdown(
+    "🔗 **GitHub Repository:** "
+    "[Smart Student Dashboard & CSV Analyzer]"
+    "(https://github.com/samruddhabelsare/smart-student-dashboard)"
+)
 
 st.sidebar.markdown(
     """
