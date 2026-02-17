@@ -14,6 +14,11 @@
 
 🧡 Work Hard &nbsp;·&nbsp; 🤍 Stay Focused &nbsp;·&nbsp; 💚 Shine Bright
 
+## 🚀 Live Demo
+
+[![Open Streamlit App](https://img.shields.io/badge/Streamlit-Live_App-brightgreen?style=for-the-badge&logo=streamlit)](https://smart-student-dashboard.streamlit.app/)
+
+
 [Features](#-features) · [Demo](#-demo) · [Installation](#-installation) · [Usage](#-usage) · [Project Structure](#-project-structure) · [Tech Stack](#-tech-stack) · [Author](#-author)
 
 </div>
