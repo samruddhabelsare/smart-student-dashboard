@@ -1,4 +1,4 @@
-# 🪔 India Student Command Centre
+#  India Student Command Centre
 
 <div align="center">
 
@@ -371,7 +371,7 @@ Developed with ❤️ and Large Language Models (LLMs)
 
 ```
 ◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈
-   🪔  INDIA STUDENT COMMAND CENTRE  ·  Powered by Ambition
+     INDIA STUDENT COMMAND CENTRE  ·  Powered by Ambition
    Built with  Streamlit  ·  Pandas  ·  NumPy  ·  Matplotlib
    ──────────────────────────────────────────────────────────
             🧡 Work Hard   🤍 Stay Focused   💚 Shine Bright
